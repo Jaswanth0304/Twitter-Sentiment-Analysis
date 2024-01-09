@@ -4,3 +4,4 @@ In my analysis, I harnessed a comprehensive Twitter dataset to delve into sentim
 The Random Forest model, with its ensemble of decision trees, provided robust classification, capturing intricate sentiment variations. Decision Tree, Logistic Regression, SVM, and Naive Bayes classifiers added depth to the analysis, each bringing unique strengths to the interpretation of sentiment dynamics.
 
 This research not only enhances our understanding of sentiment trends on Twitter but also sheds light on the effectiveness of diverse machine learning approaches in deciphering complex social media data. By harnessing these classifiers, we gain valuable insights into the nuanced landscape of sentiments expressed in the vast realm of Twitter.
+Link for the dataset="https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset"
